@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="hint_edit_text">What needs to be done?</string>
+    <string name="enter">Enter</string>
+    <string name="all">All</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+    <string name="clear_completed">Clear completed</string>
+    <string name="items_left">items left</string>
+    <string name="delete">Delete</string>
+</resources>
